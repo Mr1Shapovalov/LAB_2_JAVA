@@ -1,1 +1,1 @@
-# LAB_2_JAVA
+# LAB_JAVA
